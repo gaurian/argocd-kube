@@ -13,5 +13,5 @@ spec:
         run: argocd-kube
     spec:
       containers:
-      - image: 
+      - image: windhood/docker-repo:f908a80
         name: argocd-kube 
